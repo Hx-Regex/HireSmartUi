@@ -1,0 +1,17 @@
+django
+docling
+python-dotenv
+langchain
+chromadb
+langchain-text-splitters
+langchain-huggingface
+langchain-milvus
+spacy
+rapidfuzz
+transformers
+tesseract
+pytesseract
+langchain_community
+langchain-groq
+
+#python -m spacy download en_core_web_sm

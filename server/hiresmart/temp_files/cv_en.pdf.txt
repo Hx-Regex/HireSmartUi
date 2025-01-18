@@ -1,0 +1,73 @@
+<!-- image -->
+
+## ISMAIL CHABANE
+
+LinkedIn:
+
+Phone:
+
+Email:
+
+Github:
+
+Ismail Chabane
+
++212 655191579
+
+ismailchabane2@gmail.com
+
+github.com/Hx-Regex
+
+## SUMMARY
+
+I  am a mid-level software developer with experience working for various companies and agencies as a freelancer.  Currently,  I  am  pursuing  a  Master's  degree  in  Data  Science.  I  am  looking  for  an  internship where  I  can  apply  my  software  development  skills  to  data  science  projects  or  focus  solely  on  data science. I am eager to learn and contribute to a team in the data science field.
+
+## EDUCATION
+
+## Master's in Data Science
+
+Faculté des Sciences Ben M'Sick
+
+- Relevant Coursework:  Machine learning, Deep learning, Cloud Computing
+
+## Bachelor's in Computer Science
+
+Faculté des Sciences Ben M'Sick
+
+- Relevant Coursework : Data Structures, Database Management, Statistics
+- Project : Smart Cafeteria IoT System using (C , React Native , Firebase Real TimeDB , Firebase Firestore)
+
+## WORK EXPERIENCE
+
+## Freelance Software Developer
+
+2022 - Present
+
+## Project: Online Paid Voting Platform for Kora Awards  |  e-vote.koraawards.com
+
+- Payment Gateway Integration: Integrated multiple payment gateways ( Onafriq , Ngenius , Pvit ) to facilitate secure and seamless transactions, enhancing the platform's reliability and user trust.
+- Analytics Dashboard Development: Designed and implemented an analytics dashboard to monitor transactions, total revenue, and server performance, enabling data-driven decision-making and real-time insights.
+- Collaboration with Elikiya Agency: Worked closely with Elikiya Agency to align website functionality with client requirements, ensuring timely delivery and client satisfaction.
+- Technologies Used: Next.js, Tailwind , Express.js, Docker , Umami , Firebase , React
+
+## Project: Africkana Radio Website for Elikiya Agency  |  radio.africkana.com
+
+- Dashboard Development: Created a dynamic dashboard for managing radios, playlists, podcasts, and advertisements (MP3 and banners), streamlining content management for users.
+- Responsive Design Implementation: Ensured a seamless and responsive design, enhancing user experience and engagement across various devices.
+- Ad Management System: Developed an effective ad management system to handle audio and banner advertisements
+- Technologies Used: Next.js, Tailwind CSS, Google Analytics, PWA, React
+
+## ADDITIONAL INFORMATION
+
+- Programming Languages: JavaScript, Python, C, Java (JEE)
+- Frameworks & Libraries: React, Next.js, Express.js, Tailwind CSS
+- Tools & Platforms: Docker, Firebase, Google Analytics, Umami, PWA
+- Databases: MongoDB, MySQL, PostgreSQL
+- Data Science: Machine Learning, Data Visualization, Big Data Analytics
+- Others: Server Monitoring,
+- Certifications: Advanced React ( Meta )
+- Languages: English, Arabic, French.
+
+2023 - Present
+
+2022-2023

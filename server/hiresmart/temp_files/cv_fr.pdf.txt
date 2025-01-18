@@ -1,0 +1,73 @@
+<!-- image -->
+
+## ISMAIL CHABANE
+
+LinkedIn:
+
+Phone:
+
+Email:
+
+Github:
+
+Ismail Chabane
+
++212 655191579
+
+ismailchabane2@gmail.com
+
+github.com/Hx-Regex
+
+## PROFIL
+
+Je suis développeur logiciel de niveau intermédiaire avec de l'expérience auprès de diverses entreprises et  agences  en  tant  que  freelance.  Actuellement,  je  poursuis  un  Master  en  Science  des  Données.  Je recherche un stage où je pourrais appliquer mes compétences en développement logiciel à des projets de science des données ou me concentrer exclusivement sur la science des données. Je suis désireux d'apprendre et de contribuer à une équipe dans le domaine de la science des données.
+
+## FORMATION ACADÉMIQUE
+
+## Master en Science des Données
+
+2023 - Present
+
+Faculté des Sciences Ben M'Sick
+
+- Cours Pertinents : Apprentissage Automatique, Apprentissage Profond , Cloud Computing
+
+## Licence en Informatique
+
+Faculté des Sciences Ben M'Sick
+
+- Cours Pertinents : Structures de Données, Gestion de Bases de Données, Statistiques
+- Projet : Système IoT de Cafétéria Intelligente utilisant (C, React Native, Firebase Real TimeDB, Firebase Firestore)
+
+## EXPÉRIENCE PROFESSIONNELLE
+
+Développeur Logiciel Freelance
+
+2022 - Present
+
+Projet : Plateforme de Vote Payant en Ligne pour les Kora Awards | e-vote.koraawards.com
+
+- Intégration des Passerelles de Paiement : Intégré plusieurs passerelles de paiement (Onafriq, Ngenius, Pvit) pour faciliter des transactions sécurisées et fluides, améliorant ainsi la fiabilité de la plateforme et la confiance des utilisateurs.
+- Développement du Tableau de Bord Analytique : Conçu et mis en œuvre un tableau de bord analytique pour surveiller les transactions, les revenus totaux et les performances du serveur, permettant une prise de décision basée sur les données et des insights en temps réel.
+- Collaboration with Elikiya Agency: Travaillé en étroite collaboration avec l'Agence Elikiya pour aligner les fonctionnalités du site web avec les exigences du client, garantissant une livraison ponctuelle et la satisfaction du client.
+- Technologies Utilisées : Next.js, Tailwind, Express.js, Docker, Umami, Firebase, React
+
+## Projet : Site Web Africkana Radio pour l'Agence Elikiya | radio.africkana.com
+
+- Développement du Tableau de Bord : Créé un tableau de bord dynamique pour gérer les radios, les playlists, les podcasts et les publicités (MP3 et bannières), simplifiant la gestion du contenu pour les utilisateurs.
+- Mise en Œuvre d'un Design Responsive : Assuré un design fluide et responsive, améliorant l'expérience utilisateur et l'engagement sur divers appareils.
+- Système de Gestion des Publicités : Développé un système efficace de gestion des publicités pour gérer les annonces audio et les bannières.
+- Technologies Utilisées : Next.js, Tailwind CSS, Google Analytics, PWA, React
+
+## COMPÉTENCES
+
+- Programming Languages: JavaScript, Python, C, Java (JEE)
+- Frameworks & Libraries: React, Next.js, Express.js, Tailwind CSS
+- Tools & Platforms: Docker, Firebase, Google Analytics, Umami, PWA
+- Databases: MongoDB, MySQL, PostgreSQL
+- Data Science: Machine Learning, Data Visualization, Big Data Analytics
+- Others: Server Monitoring,
+- Certifications: Advanced React ( Meta )
+- Languages: English, Arabic, French.
+
+2022-2023

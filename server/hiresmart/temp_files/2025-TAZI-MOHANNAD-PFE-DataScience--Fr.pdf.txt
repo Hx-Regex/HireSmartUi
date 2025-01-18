@@ -1,0 +1,139 @@
+<!-- image -->
+
+mohannad-tazi mohannad-tazi
+
+mohannadtazi.dev@gmail.com mohannadtazi.dev@gmail.com
+
+mohannadtazi.vercel.app mohannadtazi.vercel.app
+
++212 680 12 64 60 +212 680 12 64 60
+
+## Mohannad TAZI
+
+Étudiant en Master Data Science and Big Data Faculté des Sciences Ben M'Sic k Casablanca
+
+Étudiant en deuxième année de Master Data Science & Big Data , assionné  par  le  Machine  Learning,  l'Intelligence  Artificielle  et  l'analyse  de données.  Je  cherche  un  stage  de PFE pour  appliquer  mes  compétences  en Python , Machine Learning , Deep Learning , NLP et ingénierie des données à des projets concrets. Profil
+
+<!-- image -->
+
+## F O R M A T I O N    A C A D É M I Q U E
+
+2022 -
+
+2023
+
+2023 -
+
+présent
+
+Faculté des Sciences Ben M'sik
+
+LICENCE EN SCIENCES MATHÉMATIQUES ET INFORMATIQUE - BASE DE DONNÉES
+
+Lycée AL JOULANE BACCALAURÉAT SCIENCES MATHÉMATIQUES 'A'
+
+2019 -
+
+2020
+
+Faculté des Sciences Ben M'sik
+
+## MASTER EN DATA SCIENCE ET BIG DATA
+
+## E X P É R I E N C E S    P R O F E S S I O N N E L L E S
+
+## PFA CONSULTANT SALESFORCE - D&A TECHNOLOGIES
+
+Formation avancée sur Salesforce (140 badges, 11 Superbadges) et contribution  au  projet  AMDIE  via  la  création  d'objets personnalisés,  des  règles  de  validation,  et  l'automatisation  de flux pour la gestion de projets d'investissement et d'exportation.
+
+Août Septembre 2024
+
+## STAGE AI CRAFTER PRO - AI CRAFTERS
+
+Technopark
+
+Accompagnement  de startups dans  l'évaluation,  le  test  et l'intégration d'outils d'intelligence artificielle (ChatGPT, MidJourney, etc.), permettant d' optimiser leurs processus métiers et d'adopter des solutions innovantes.
+
+STAGE EN ANALYSE DE DONNÉES - MERISKILL
+
+Mai 2024
+
+Janvier-
+
+## Remote
+
+Mars 2024 Participation  à  trois  projets  stratégiques  :  Analyse  des  Ventes,
+
+Patients  Diabétiques,  et  Analyse  des  Ressources  Humaines,  en appliquant des compétences en exploration et visualisation de données .
+
+## P R O J E T S    A C A D É M I Q U E S
+
+## SYSTÈME INTELLIGENT D'APPRENTISSAGE PERSONNALISÉ BASÉ SUR RAG ET AGENTS AI - PFA
+
+Création d'un système éducatif utilisant des modèles LLM spécialisés , RAG et des agents AI asynchrones pour un apprentissage  personnalisé  en  informatique  et  mathématiques, avec une précision de 97,22 % en informatique.
+
+Technologies :Python, LangChain, OpenAI API, FAISS
+
+## SYSTÈME NLP POUR LE TRAITEMENT AUTOMATIQUE DES CV ET RÉSUMÉS
+
+Développement  d'un  outil NLP capable  d' analyser  et  de  résumer automatiquement des  CV,  en  extrayant  les  informations  clés  pour optimiser le tri des candidats par les recruteurs.
+
+Technologies :Python, Hugging Face, NLTK, SpaCy
+
+## RECONNAISSANCE D'ENTITÉS NOMMÉES POUR LE DARIJA
+
+Créé un pipeline spaCy sur mesure pour la reconnaissance d'entités nommées  (NER)  en  Darija,  atteignant  un  score  F1  de 99,65  %. Comparé  les  performances  de  plusieurs  approches,  incluant AraBERT-CRF et AraBERT fine-tuné .
+
+Technologies : Python, spaCy, Transformers, CRF
+
+## PRÉDICTION DES PRIX  AVEC RANDOM FOREST ET MLFLOW
+
+Développé  un  modèle  de  prédiction  des  prix  basé  sur Random Forest Regressor . Intégré MLflow pour gérer le suivi des expériences, le versionnement et le déploiement.
+
+Technologies :Python, MLflow, Scikit-learn, Pandas, Matplotlib
+
+## C O M P É T E N C E S   T E C H N I Q U E S
+
+- Langages de programmation : Python, Java, JEE
+- Machine  Learning  &  IA  : Scikit-learn,  MLflow, TensorFlow, PyTorch, NLP (SpaCy, NLTK), Régression, Classification, Clustering, Deep Learning
+- Ingénierie  des  données  : Prétraitement  des données,  Ingénierie  des  fonctionnalités,  SQL, NoSQL (MongoDB)
+- Cloud Computing : AWS, Azure
+- Visualisation  des  données  : Power  BI,  Tableau, Matplotlib, Seaborn
+- Big Data : Hadoop, Spark, Elasticsearch
+- Outils &  Bibliothèques  : Docker,  Selenium, GitHub, Notebooks, LangChain, Hugging Face
+- Gestion  de  projet  : Agile,  Scrum,  Jira,  Azure DevOps
+
+## ACTIVITÉS PARA-UNIVERSITAIRES
+
+- Président,  Club  Soft  Skills -  J'ai  organisé  45+ événements sur le leadership ,  la prise  de  parole  en public et la collaboration en équipe.
+- Établi des partenariats avec des associations et des entreprises, entraînant une augmentation de l'engagement.
+- Intervenant lors d' ateliers internationaux sur les soft skills et les compétences futures.
+- Membre et Organisateur, Communauté AI & Dev : J'ai organisé des événements axés sur AI .
+- Blogger :  Je  rédige  des  articles  explorant  des  sujets tels  que l'analyse de données, les méthodologies ML et les avancées technologiques récentes.
+
+## P U B L I C A T I O N
+
+## LEVERAGING RAG AND AI AGENTS TO ENHANCE SPECIALIZED LLMS IN EDUCATION
+
+Octobre 2023 Accepté  à  la  conférence  international TIM'24
+
+## C E R T I F I C A T I O N S
+
+- Machine Learning Specialization - DeepLearning.ai
+- LangChain  for  LLM  Application  Development  DeepLearning.ai
+- Data Science Specialization - IBM
+- Agile Project Management - Google
+- Certified Developer, Associate - MongoDB
+- Certified Developer, Associate - MongoDB
+- Introduction to Cloud 101 - AWS
+- Agile Project Management - Google
+- Project Management - PMI
+
+## L A N G U A G E S L O I S I R S
+
+- Français : Avancé
+- Anglais : Professionnel
+- Arabic: Native
+- Chinois : Basic
+- Fitness: Entraînement  musculaire et exercice physique.
+- Open  Source: Contributeur  à  des projets open source en data science et IA.
