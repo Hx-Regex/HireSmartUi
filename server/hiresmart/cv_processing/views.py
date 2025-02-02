@@ -5,6 +5,7 @@ from .processing.rank_cvs import rank_cvs
 from .processing.chat import rag_query
 from .processing.utils import embed_cvs_and_store
 from .processing.text_extraction import extract_text
+from .processing.ner import extract_entities
 from .processing.text_summarization import summarize_text, summarize_section_with_llama
 import logging
 
@@ -86,19 +87,21 @@ def chat_view(request):
                 })
             
             elif "query" in request.POST:
-                selected_file = request.POST.get("selected_file")
-                if not selected_file:
-                    return JsonResponse({"error": "Please select a CV file"}, status=400)
+                selected_files = request.POST.getlist("selected_files")
+                if not selected_files:
+                    return JsonResponse({"error": "Please select at least one CV file"}, status=400)
                 
-                # Get the full path for the selected file
-                file_path = os.path.join(upload_dir, selected_file)
+                # Get the full paths for the selected files
+                file_paths = [os.path.join(upload_dir, file) for file in selected_files]
                 
-                if not os.path.exists(file_path):
-                    return JsonResponse({"error": "Selected file not found"}, status=404)
+                # Check if all selected files exist
+                missing_files = [file for file in file_paths if not os.path.exists(file)]
+                if missing_files:
+                    return JsonResponse({"error": f"Selected file(s) not found: {', '.join(missing_files)}"}, status=404)
                 
                 query = request.POST.get("query")
-                # Create index from single selected file
-                index = embed_cvs_and_store([file_path])
+                # Create index from selected files
+                index = embed_cvs_and_store(file_paths)
                 response = rag_query(query, index)
                 
                 if not isinstance(response, str):
@@ -143,14 +146,15 @@ def summarize_view(request):
                     return JsonResponse({"error": "File not found"}, status=404)
                 
                 with open(file_path, 'rb') as file:
-                    text = extract_text(file_path)
-                    
+                    text = extract_text(file_path) 
+                    ner  = extract_entities(text)
+                    print(ner)
                 if section:
                     summary = summarize_section_with_llama(text, section)
                 else:
                     summary = summarize_text(text)
                 
-                return JsonResponse({"summary": summary})
+                return JsonResponse({"summary": summary,"ner": ner,"fulltext" : text})
                 
         except Exception as e:
             logger.error(f"Error in summarization: {str(e)}", exc_info=True)

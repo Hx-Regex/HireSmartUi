@@ -1,4 +1,4 @@
-'use client'
+"use client";
 import { useState } from "react";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
@@ -13,6 +13,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import axios from "axios";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 
 export function RegisterForm({
   className,
@@ -23,17 +24,20 @@ export function RegisterForm({
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
   const [success, setSuccess] = useState("");
-const router = useRouter()
+  const router = useRouter();
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     try {
-      const response = await axios.post("http://127.0.0.1:8000/auth/register/", {
-        username,
-        email,
-        password,
-      });
+      const response = await axios.post(
+        "http://127.0.0.1:8000/auth/register/",
+        {
+          username,
+          email,
+          password,
+        }
+      );
       setSuccess("Registration successful! You can now log in.");
-      router.push('/login')
+      router.push("/login");
       setError("");
       setUsername("");
       setEmail("");
@@ -91,6 +95,7 @@ const router = useRouter()
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
                   className="border-[#333]"
+                  placeholder='********'
                   required
                 />
               </div>
@@ -100,6 +105,16 @@ const router = useRouter()
                 Register
               </Button>
             </div>
+            {/* <div className="text-sm flex text-gray-400 mt-4 ">
+              Don't have an account?{" "}
+              <Link
+                href="/register"
+                className="flex items-center justify-center ml-2 text-[#e97451] underline "
+              >
+                Register
+              </Link>
+            </div> */}
+
           </form>
         </CardContent>
       </Card>
