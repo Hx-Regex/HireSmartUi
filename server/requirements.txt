@@ -14,4 +14,8 @@ pytesseract
 langchain_community
 langchain-groq
 
+djangorestframework 
+django-cors-headers
+djangorestframework-simplejwt
+
 #python -m spacy download en_core_web_sm

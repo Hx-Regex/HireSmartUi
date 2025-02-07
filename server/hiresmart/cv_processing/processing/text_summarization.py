@@ -42,10 +42,11 @@ def summarize_text(text):
 # Load a pre-trained Llama model from HuggingFace for advanced summarization
 def load_llama_model():
     HF_API_KEY = os.environ.get("HF_API_KEY")
-    HF_LLM_MODEL_ID = "mistralai/Mistral-7B-Instruct-v0.3"
+    HF_LLM_MODEL_ID = "mistralai/Mistral-Small-24B-Instruct-2501"
     return HuggingFaceEndpoint(
         repo_id=HF_LLM_MODEL_ID,
         huggingfacehub_api_token=HF_API_KEY,
+        task="text-generation",
     )
 
 def summarize_text_with_llama(text):
